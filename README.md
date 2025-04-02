@@ -7,7 +7,7 @@ _Programador Web Backend_ <br>
 ## Experiencia
 
 **Programador Senior PHP** @ Xalok - Hiberus Media Labs _(Marzo de 2014 - actualidad)_ <br>
-Desarrollo PHP en CMS HELISA/XALOK
+Desarrollo PHP en CMS HELISA/XALOK/Xalok Go
   - Heraldo de Aragón
   - Diario de Navarra
   - Diari Més
@@ -15,6 +15,14 @@ Desarrollo PHP en CMS HELISA/XALOK
   - La Información
   - infoLibre
   - Mendoza Online
+  - Vertical Vela Marca
+  - Cooking (El Mundo)
+  - MediaHub (Fundación La Caixa)
+  - COPE
+  - Edigrup
+  - Voz.us
+  - La Voz de Almería
+  - Religión en Libertad
 <br><br>
 
 **Programador Web & Administrador Sistemas** @ EKOALFA 4, S.A. (Travelmar) _(Febrero de 2010 – Marzo de 2014)_ <br>
