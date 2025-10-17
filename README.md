@@ -2,12 +2,12 @@
 
 _Programador Web Backend_ <br>
 
-[Email](mailto:contacto@jorgebailo.es) / [Website](https://www.jorgebailo.es/) / [LinkedIn](http://es.linkedin.com/in/jorgebailo) / [GitHub](https://github.com/JorgeBailo/) / [Twitter](https://twitter.com/BailoJorge)
+[LinkedIn](http://es.linkedin.com/in/jorgebailo) / [GitHub](https://github.com/JorgeBailo/) / [Twitter](https://twitter.com/BailoJorge)
 
 ## Experiencia
 
 **Programador Senior PHP** @ Xalok - Hiberus Media Labs _(Marzo de 2014 - actualidad)_ <br>
-Desarrollo PHP en CMS HELISA/XALOK/Xalok Go
+Desarrollo PHP en CMS HELISA/XALOK/XalokGo
   - Heraldo de Aragón
   - Diario de Navarra
   - Diari Més
@@ -23,6 +23,7 @@ Desarrollo PHP en CMS HELISA/XALOK/Xalok Go
   - Voz.us
   - La Voz de Almería
   - Religión en Libertad
+  - Diari de Tarragona
 <br><br>
 
 **Programador Web & Administrador Sistemas** @ EKOALFA 4, S.A. (Travelmar) _(Febrero de 2010 – Marzo de 2014)_ <br>
