@@ -1,13 +1,13 @@
 # Jorge Bailo Estallo
 
-_Programador Web Backend_ <br>
+_Programador Web_ <br>
 
 [LinkedIn](http://es.linkedin.com/in/jorgebailo) / [GitHub](https://github.com/JorgeBailo/) / [Twitter](https://twitter.com/BailoJorge)
 
 ## Experiencia
 
-**Programador Senior PHP** @ Xalok - Hiberus Media Labs _(Marzo de 2014 - actualidad)_ <br>
-Desarrollo PHP en CMS HELISA/XALOK/XalokGo
+**Programador Senior** @ Xalok - Hiberus Media Labs _(Marzo de 2014 - actualidad)_ <br>
+Desarrollo en CMS HELISA/XALOK/XalokGo
   - Heraldo de Aragón
   - Diario de Navarra
   - Diari Més
@@ -24,6 +24,7 @@ Desarrollo PHP en CMS HELISA/XALOK/XalokGo
   - La Voz de Almería
   - Religión en Libertad
   - Diari de Tarragona
+  - Hoy.com.do
 <br><br>
 
 **Programador Web & Administrador Sistemas** @ EKOALFA 4, S.A. (Travelmar) _(Febrero de 2010 – Marzo de 2014)_ <br>
